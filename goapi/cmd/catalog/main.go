@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/bernardocamps/fullcycle/goapi/internal/database"
-	"github.com/bernardocamps/fullcycle/goapi/internal/service"
-	"github.com/bernardocamps/fullcycle/goapi/internal/webserver"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/database"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/service"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/webserver"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	_ "github.com/go-sql-driver/mysql"

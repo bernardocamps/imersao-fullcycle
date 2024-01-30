@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/bernardocamps/fullcycle/goapi/internal/entity"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/entity"
 )
 
 type ProductDB struct {

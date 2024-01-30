@@ -1,4 +1,4 @@
-module github.com/bernardocamps/fullcycle/goapi
+module github.com/bernardocamps/imersao-fullcycle/goapi
 
 go 1.21.6
 

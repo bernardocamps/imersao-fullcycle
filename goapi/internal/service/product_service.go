@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/bernardocamps/fullcycle/goapi/internal/database"
-	"github.com/bernardocamps/fullcycle/goapi/internal/entity"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/database"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/entity"
 )
 
 type ProductService struct {

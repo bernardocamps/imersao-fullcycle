@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/bernardocamps/fullcycle/goapi/internal/entity"
-	"github.com/bernardocamps/fullcycle/goapi/internal/service"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/entity"
+	"github.com/bernardocamps/imersao-fullcycle/goapi/internal/service"
 	"github.com/go-chi/chi"
 )
 
